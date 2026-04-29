@@ -1,7 +1,7 @@
 # 8-bit ALU Design in Verilog
 
 ## Overview
-This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL.
+This project implements an Parameterized 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL.
 
 ## Operations Supported
 - Addition
@@ -25,5 +25,4 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL.
 Waveforms verify correct functionality of all operations.
 
 ## Future Improvements
-- Parameterized ALU (scalable bits)
 - FPGA implementation
